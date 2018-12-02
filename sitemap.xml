@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://strikt.io/sitemap-home.xml</loc>
+        <lastmod>2018-12-02T10:49:42.717</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://strikt.io/sitemap-kotlindoc.xml</loc>
+        <lastmod>2018-12-02T10:49:42.720</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://strikt.io/sitemap-pages.xml</loc>
+        <lastmod>2018-12-02T10:49:42.723</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://strikt.io/sitemap-wiki.xml</loc>
+        <lastmod>2018-12-02T10:49:42.724</lastmod>
+    </sitemap>
+    
+</sitemapindex>

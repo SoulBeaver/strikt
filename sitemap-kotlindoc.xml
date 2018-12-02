@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://strikt.io/strikt/api</loc>
+        <lastmod>2018-12-02T10:49:38.670</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/CompoundAssertions</loc>
+        <lastmod>2018-12-02T10:49:38.637</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/AtomicAssertion</loc>
+        <lastmod>2018-12-02T10:49:38.650</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/CompoundAssertion</loc>
+        <lastmod>2018-12-02T10:49:38.654</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/Assertion</loc>
+        <lastmod>2018-12-02T10:49:38.659</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/Assertion/Builder</loc>
+        <lastmod>2018-12-02T10:49:38.656</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/DescribeableBuilder</loc>
+        <lastmod>2018-12-02T10:49:38.657</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/ExpectationBuilder</loc>
+        <lastmod>2018-12-02T10:49:38.660</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/assertions</loc>
+        <lastmod>2018-12-02T10:49:38.663</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/time</loc>
+        <lastmod>2018-12-02T10:49:38.665</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/protobuf</loc>
+        <lastmod>2018-12-02T10:49:38.672</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    
+</urlset>
